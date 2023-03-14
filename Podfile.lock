@@ -1,0 +1,28 @@
+PODS:
+  - Charts (3.4.0):
+    - Charts/Core (= 3.4.0)
+  - Charts/Core (3.4.0)
+  - SQLite.swift (0.12.2):
+    - SQLite.swift/standard (= 0.12.2)
+  - SQLite.swift/standard (0.12.2)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Charts (~> 3.4.0)
+  - SQLite.swift (~> 0.12.0)
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - SQLite.swift
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Charts: 74c9f256eaf0460c0c416522d1cf8c634ea6b286
+  SQLite.swift: d2b4642190917051ce6bd1d49aab565fe794eea3
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: f53a44491a0d82f2945b1bcf8fb9b7a1a5ebbe88
+
+COCOAPODS: 1.11.3

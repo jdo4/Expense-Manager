@@ -1,0 +1,99 @@
+
+/* Class = "UILabel"; text = "Expense$"; ObjectID = "0v6-YW-YK0"; */
+"0v6-YW-YK0.text" = "खर्च $";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "5RX-5E-0Dz"; */
+"5RX-5E-0Dz.text" = "विवरण";
+
+/* Class = "UILabel"; text = "incomelabel"; ObjectID = "8Xd-bA-O2X"; */
+"8Xd-bA-O2X.text" = "आय";
+
+/* Class = "UILabel"; text = "Amount"; ObjectID = "D62-aW-bsP"; */
+"D62-aW-bsP.text" = "रकम";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "ExW-P1-XZS"; */
+"ExW-P1-XZS.text" = "प्रकार";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PIa-QQ-4hH"; */
+"PIa-QQ-4hH.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Expense Manager"; ObjectID = "Ps8-4t-JOd"; */
+"Ps8-4t-JOd.title" = "व्यय प्रबंधक";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Q2S-l9-NKn"; */
+"Q2S-l9-NKn.text" = "Label";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "Qhv-y2-tNm"; */
+"Qhv-y2-tNm.text" = "नाम";
+
+/* Class = "UIButton"; configuration.title = "Tap to set location via map"; ObjectID = "Qjf-4r-xZN"; */
+"Qjf-4r-xZN.configuration.title" = "स्थान सेट करने के लिए टैप करें";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Qjf-4r-xZN"; */
+"Qjf-4r-xZN.normalTitle" = "Button";
+
+/* Class = "UIViewController"; title = "Expense Manager"; ObjectID = "RSo-dg-VLf"; */
+"RSo-dg-VLf.title" = "व्यय प्रबंधक";
+
+/* Class = "UILabel"; text = "Bill Photo"; ObjectID = "UJK-4F-EqF"; */
+"UJK-4F-EqF.text" = "बिल फोटो";
+
+/* Class = "UILabel"; text = "Expense"; ObjectID = "VH0-bl-V5A"; */
+"VH0-bl-V5A.text" = "व्यय";
+
+/* Class = "UIButton"; configuration.title = "    PickImage"; ObjectID = "Xkn-AM-NDY"; */
+"Xkn-AM-NDY.configuration.title" = "   छवि चुनें";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Xkn-AM-NDY"; */
+"Xkn-AM-NDY.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "explabel"; ObjectID = "ZCB-xm-fv4"; */
+"ZCB-xm-fv4.text" = "explabel";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "apY-RM-wK6"; */
+"apY-RM-wK6.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "apY-RM-wK6"; */
+"apY-RM-wK6.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "hgS-xa-K9m"; */
+"hgS-xa-K9m.normalTitle" = "जोड़ें";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "i9o-8c-ohk"; */
+"i9o-8c-ohk.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lgR-lH-ezx"; */
+"lgR-lH-ezx.text" = "Label";
+
+/* Class = "UILabel"; text = "Income"; ObjectID = "mOd-R1-DuG"; */
+"mOd-R1-DuG.text" = "आय";
+
+/* Class = "UILabel"; text = "Income$"; ObjectID = "ovE-PW-XnW"; */
+"ovE-PW-XnW.text" = "आय$";
+
+/* Class = "UIButton"; configuration.title = "Reports"; ObjectID = "pHD-Rf-JMU"; */
+"pHD-Rf-JMU.configuration.title" = "ग्राफ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "pHD-Rf-JMU"; */
+"pHD-Rf-JMU.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qFr-wa-tHx"; */
+"qFr-wa-tHx.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "Banks"; ObjectID = "u4Z-oG-09t"; */
+"u4Z-oG-09t.configuration.title" = "बैंकों";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "u4Z-oG-09t"; */
+"u4Z-oG-09t.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Km"; ObjectID = "wsf-FW-YEO"; */
+"wsf-FW-YEO.text" = "किमी";
+
+/* Class = "UINavigationItem"; title = "Location Map"; ObjectID = "yaz-NQ-Y40"; */
+"yaz-NQ-Y40.title" = "स्थान मानचित्र";
+
+/* Class = "UILabel"; text = "Press save button to save record."; ObjectID = "zOp-Sk-ggl"; */
+"zOp-Sk-ggl.text" = "जोड़ने के लिए ऐड बटन दबाएं";
+
+/* Class = "UILabel"; text = " "; ObjectID = "zjD-mt-LKE"; */
+"zjD-mt-LKE.text" = " ";
